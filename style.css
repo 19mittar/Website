@@ -1,0 +1,85 @@
+body {
+    background-color: #E4E5E7;
+}
+.padding {
+    padding-top: 40px;
+}
+.title{
+    background-color: #45708A;
+    text-align: center;
+    height: 70px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.padding2{
+    height: 80px;
+}
+.portfolio{
+    background-color: #E4E5E7;
+    height: 300px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 30px;
+    border: 5px solid #A2AF44
+}
+
+.subheader {
+    font-family: "Maven Pro";
+    font-size: 24px;
+}
+.header {
+    font-family: "Secular One";
+    font-size: 36px;
+}
+.body{
+    font-family: "Pontano Sans";
+    font-size: 14px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #A2AF44;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+#hr1{
+    
+    
+    height: 20px;
+    background-color: #45708A;
+    
+}
+#hr2{
+    height: 20px;
+    background-color: #45708A;
+
+}
+.title2{
+    background-color: #E4E5E7;
+    text-align: center;
+    height: 70px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.ImageBorder
+{
+   
+    border: 5px solid #A2AF44;
+}
